@@ -6,7 +6,7 @@
 Aspiring Data Analyst & Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social)](https://github.com/YOUR-USERNAME)
+[![GitHub]([https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social](https://github.com/alaahamdy1))](https://github.com/alaahamdy1)
 
 ---
 
