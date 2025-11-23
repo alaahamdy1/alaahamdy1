@@ -5,8 +5,8 @@
 <p><em>Computer Science Student at EELU <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"><br>
 Aspiring Data Analyst & Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></em></p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/alla-hamdy-7a8785397/))
-[![GitHub](https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social)](https://github.com/alaahamdy1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alla-hamdy-7a8785397/)
+[![GitHub](https://img.shields.io/github/followers/alaahamdy1?label=Follow&style=social)](https://github.com/alaahamdy1)
 
 ---
 
@@ -14,8 +14,22 @@ Aspiring Data Analyst & Software Developer <img src="https://media.giphy.com/med
 
 ```javascript
 const alaa = {
-  skills: ["Java", "OOP", "C#", "HTML", "CSS", "JavaScript", "Python", "SQL", "Power BI"],
-  interests: ["Data Analysis", "Web Development", "Machine Learning"],
+  skills: [
+    "Java", 
+    "OOP", 
+    "C#", 
+    "HTML", 
+    "CSS", 
+    "JavaScript", 
+    "Python", 
+    "SQL", 
+    "Power BI"
+  ],
+  interests: [
+    "Data Analysis", 
+    "Web Development", 
+    "Machine Learning"
+  ],
   learning: "Building data projects using Python, SQL, and Power BI",
   challenge: "#100DaysOfCode"
-}
+};
